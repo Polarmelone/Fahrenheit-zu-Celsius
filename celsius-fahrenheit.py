@@ -11,7 +11,7 @@ def Window():
     Fenster.resizable(width=False, height=False)
     
     Fenster.config(bg="grey")
-clicker()
+Window()
 
 Einheit = tkinter.StringVar()
 
