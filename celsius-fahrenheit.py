@@ -3,7 +3,7 @@ from tkinter import ttk
 import tkinter
 
 #Fenster öffner (Brechstange)
-def clicker():
+def Window():
     global Fenster
     Fenster = Tk()
     Fenster.title("Maßrechner")
